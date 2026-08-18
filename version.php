@@ -24,7 +24,7 @@
 
 defined('MOODLE_INTERNAL') || die;
 
-$plugin->version  = 2019061000;
+$plugin->version  = 2019061001;
 $plugin->requires = 2019053000;
 $plugin->component = 'local_qlapi';
 $plugin->maturity = MATURITY_ALPHA;
